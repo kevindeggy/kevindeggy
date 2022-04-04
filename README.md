@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kevindeggy
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Javascript and Java
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me: kevindg95@icloud.com or +39 393 4062069
